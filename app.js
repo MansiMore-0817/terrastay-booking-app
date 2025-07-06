@@ -9,7 +9,7 @@ const wrapAsync = require("./utils/wrapAsync.js");
 const ExpressError = require("./utils/ExpressError.js");
 
 // const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
-const MONGO_URL = "mongodb+srv://moremansi0817:M@nsirupesh0808@listings.jahozwq.mongodb.net/?retryWrites=true&w=majority&appName=listings";
+ const MONGO_URL = "mongodb+srv://moremansi08:Mansirupesh0808@listings.jahozwq.mongodb.net/wanderlust?retryWrites=true&w=majority";
 
 main()
   .then(() => {
@@ -31,7 +31,7 @@ app.engine("ejs", ejsMate);
 app.use(express.static(path.join(__dirname, "/public")));
 
 app.get("/", (req, res) => {
-  res.redirect("/listings/index.ejs");
+  res.redirect("listings/index.ejs");
 });
 
 
