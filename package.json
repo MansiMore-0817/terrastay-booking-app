@@ -9,12 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  
-  "description": "",
+  "description": "**TerraStay** is a full-stack accommodation booking platform inspired by Airbnb. It allows users to browse property listings with images, descriptions, and prices formatted in Indian Rupees (₹). The project uses **Node.js**, **Express**, **MongoDB**, and **EJS** templating, with a responsive UI built on Bootstrap.",
   "dependencies": {
     "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
-    "express": "^5.1.0",
+    "express": "^4.21.2",
     "method-override": "^3.0.0",
     "mongoose": "^8.16.1"
   }
