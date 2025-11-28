@@ -1,7 +1,7 @@
 # 🏡 TerraStay — Modern Accommodation Booking Platform
 
 <p align="center">
-  <b>Full-stack Airbnb-style platform built with Node.js, Express, MongoDB, EJS & Cloudinary</b><br/>
+  <b>Full-stack accomodation platform built with Node.js, Express, MongoDB, EJS & Cloudinary</b><br/>
   <i>Browse · Book · Host — a seamless travel booking experience ✈️🏡</i>
 </p>
 
