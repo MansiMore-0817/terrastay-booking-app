@@ -208,6 +208,7 @@ App runs at: http://localhost:3000
 
 
 <a id="contact"></a>
-## 📬 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817)
+## 📬 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817)
 
 <p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
