@@ -49,22 +49,51 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
+### 🗂️ Architecture Diagram
+<p align="center">
+<img src="Terrastay_SS/project_structure.jpg" width="500px" />
+<br/><b>Project Structure Diagram</b>
+</p>
+
+
+
+---
+
 ## 📸 Demo Screenshots
 
+
 <details>
-<summary><h3>🔎 Click to View TerraStay Screenshots</h3></summary>
+<summary><h1><ins>🔎 Click here for the visuals....!</ins></h1></summary>
 <br>
+
+
+
+### 🧑‍💻 Signup / Authentication
+<table>
+<tr>
+<td align="center">
+<img src="Terrastay_SS/signup.jpg" width="400px" />
+<br/><b>Sign Up Page</b>
+</td>
+<td align="center">
+<img src="Terrastay_SS/home.jpg" width="400px" />
+<br/><b>Homepage (View 1)</b>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🏠 Homepage Views
 <table>
 <tr>
 <td align="center">
-<img src="/Terrastay_SS/home.jpg" width="400px" />
-<br/><b>Homepage (View 1)</b>
+<img src="Terrastay_SS/home2.jpg" width="400px" />
+<br/><b>Homepage (View 2)</b>
 </td>
 <td align="center">
-<img src="/Terrastay_SS/home2.jpg" width="400px" />
-<br/><b>Homepage (View 2)</b>
+<img src="Terrastay_SS/multiview.jpg" width="400px" />
+<br/><b>Listing Multi-Image Preview</b>
 </td>
 </tr>
 </table>
@@ -75,43 +104,11 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 <table>
 <tr>
 <td align="center">
-<img src="/Terrastay_SS/detailed_view.jpg" width="400px" />
+<img src="Terrastay_SS/detailed_view.jpg" width="400px" />
 <br/><b>Listing Detail View</b>
 </td>
 <td align="center">
-<img src="/Terrastay_SS/multiview.jpg" width="400px" />
-<br/><b>Multi-Image Preview</b>
-</td>
-</tr>
-</table>
-
----
-
-### ✏️ Create / Edit Listing
-<table>
-<tr>
-<td align="center">
-<img src="/Terrastay_SS/new_listing.jpg" width="400px" />
-<br/><b>New Listing Page</b>
-</td>
-<td align="center">
-<img src="/Terrastay_SS/edit.jpg" width="400px" />
-<br/><b>Edit Listing</b>
-</td>
-</tr>
-</table>
-
----
-
-### 🌍 Map Integration
-<table>
-<tr>
-<td align="center">
-<img src="/Terrastay_SS/map.jpg" width="400px" />
-<br/><b>Mapbox Integration</b>
-</td>
-<td align="center">
-<img src="/Terrastay_SS/review.jpg" width="400px" />
+<img src="Terrastay_SS/review.jpg" width="400px" />
 <br/><b>Review Section</b>
 </td>
 </tr>
@@ -119,35 +116,39 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
-### 🧾 Update Tax / Pricing
+### ✏️ Add & Edit Listing
 <table>
 <tr>
 <td align="center">
-<img src="/Terrastay_SS/update_tax.jpg" width="400px" />
-<br/><b>Update Tax / Price</b>
+<img src="Terrastay_SS/new_listing.jpg" width="400px" />
+<br/><b>New Listing Page</b>
 </td>
 <td align="center">
-<img src="/Terrastay_SS/signup.jpg" width="400px" />
-<br/><b>SignUp Page</b>
+<img src="Terrastay_SS/edit.jpg" width="400px" />
+<br/><b>Edit Listing Page</b>
 </td>
 </tr>
-
 </table>
 
 ---
 
-</details>
-
-
-### 🗂️ Architecture Diagram
+### 🧾 Update Pricing / Tax
+<table>
+<tr>
 <td align="center">
-<img src="/Terrastay_SS/project_structure.jpg" width="400px" />
-
+<img src="Terrastay_SS/update_tax.jpg" width="400px" />
+<br/><b>Update Tax / Price Adjustments</b>
 </td>
+<td align="center">
+<img src="Terrastay_SS/map.jpg" width="400px" />
+<br/><b>Mapbox Integration</b>
+</td>
+</tr>
+</table>
 
 </details>
-
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -204,4 +205,5 @@ App runs at: http://localhost:3000
 
 
 ## 📬 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817)
+
 <p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
