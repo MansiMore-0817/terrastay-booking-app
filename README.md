@@ -28,7 +28,7 @@
 
 
 ---
-
+<a id="overview"></a>
 ## 🌐 Overview
 
 **TerraStay** is a full-stack accommodation booking platform inspired by Airbnb.  
@@ -37,6 +37,7 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
+<a id="features"></a>
 ## ✨ Features
 
 - 🏡 Browse interactive listings  
@@ -50,6 +51,7 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
+<a id="project-structure"></a>
 ### 🗂️ Architecture Diagram
 <p align="center">
 <img src="Terrastay_SS/project_structure.jpg" width="500px" />
@@ -60,6 +62,7 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
+<a id="demo-screenshots"></a>
 ## 📸 Demo Screenshots
 
 
@@ -150,7 +153,7 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 </details>
 ---
 
-
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -175,6 +178,7 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 
 ---
 
+<a id="installation--setup"></a>
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -204,7 +208,7 @@ App runs at: http://localhost:3000
 
 
 
-
+<a id="contact"></a>
 ## 📬 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817)
 
 <p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
