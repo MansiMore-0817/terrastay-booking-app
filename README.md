@@ -23,7 +23,6 @@
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Installation & Setup](#installation--setup)
-- [Roadmap](#roadmap)
 - [Contact](#contact)
 
 
