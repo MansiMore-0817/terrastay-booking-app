@@ -55,34 +55,86 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 <summary><h3>🔎 Click to View TerraStay Screenshots</h3></summary>
 <br>
 
-### 🏠 Homepage  
-![Homepage](Terrastay_SS/img1.jpg)
-
-### 📄 Listing Details  
-![Listing Details](TerraStay_SS/img2.jpg)
-
-### 🏡 Category Filter / Listings  
-![Listing Categories](TerraStay_SS/img3.jpg)
-
-### 🔍 Detailed View – Images + Description  
-![Detail Inside](TerraStay_SS/img4.jpg)
-
-### 🖼️ Multi Image Previews  
-![Images Grid](TerraStay_SS/img5.jpg)
-
-### 🛠️ Create Listing  
-![Create Listing](TerraStay_SS/img6.jpg)
-
-### ✏️ Edit Listing  
-![Edit Listing](TerraStay_SS/img7.jpg)
-
-### 🧭 Map Integration (if enabled)  
-![Map](TerraStay_SS/img8.jpg)
-
-### 📱 Mobile Responsive View  
-![Mobile View](TerraStay_SS/img9.jpg)
+### 🏠 Homepage Views
+<table>
+<tr>
+<td align="center">
+<img src="Terrastay_SS/home.jpg" width="400px" />
+<br/><b>Homepage (View 1)</b>
+</td>
+<td align="center">
+<img src="Terrastay_SS/home2.jpg" width="400px" />
+<br/><b>Homepage (View 2)</b>
+</td>
+</tr>
+</table>
 
 ---
+
+### 📄 Listing Details
+<table>
+<tr>
+<td align="center">
+<img src="/Terrastay_SS/detailed_view.jpg" width="400px" />
+<br/><b>Listing Detail View</b>
+</td>
+<td align="center">
+<img src="/Terrastay_SS/multiview.jpg" width="400px" />
+<br/><b>Multi-Image Preview</b>
+</td>
+</tr>
+</table>
+
+---
+
+### ✏️ Create / Edit Listing
+<table>
+<tr>
+<td align="center">
+<img src="/Terrastay_SS/new_listing.jpg" width="400px" />
+<br/><b>New Listing Page</b>
+</td>
+<td align="center">
+<img src="/Terrastay_SS/edit.jpg" width="400px" />
+<br/><b>Edit Listing</b>
+</td>
+</tr>
+</table>
+
+---
+
+### 🌍 Map Integration
+<table>
+<tr>
+<td align="center">
+<img src="/Terrastay_SS/map.jpg" width="400px" />
+<br/><b>Mapbox Integration</b>
+</td>
+<td align="center">
+<img src="/Terrastay_SS/review.jpg" width="400px" />
+<br/><b>Review Section</b>
+</td>
+</tr>
+</table>
+
+---
+
+### 🧾 Update Tax / Pricing
+<table>
+<tr>
+<td align="center">
+<img src="/Terrastay_SS/update_tax.jpg" width="400px" />
+<br/><b>Update Tax / Price</b>
+</td>
+<td align="center">
+<img src="/Terrastay_SS/project_structure.jpg" width="400px" />
+<br/><b>Project Structure Diagram</b>
+</td>
+</tr>
+</table>
+
+</details>
+
 
 ### 🗂️ Architecture Diagram
 ![Project Architecture](TerraStay_SS/project_structure.jpg)
