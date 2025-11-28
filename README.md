@@ -56,36 +56,36 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 <br>
 
 ### 🏠 Homepage  
-![Homepage](/TerraStay_SS/img1.jpg)
+![Homepage](Terrastay_SS/img1.jpg)
 
 ### 📄 Listing Details  
-![Listing Details](/TerraStay_SS/img2.jpg)
+![Listing Details](TerraStay_SS/img2.jpg)
 
 ### 🏡 Category Filter / Listings  
-![Listing Categories](/TerraStay_SS/img3.jpg)
+![Listing Categories](TerraStay_SS/img3.jpg)
 
 ### 🔍 Detailed View – Images + Description  
-![Detail Inside](/TerraStay_SS/img4.jpg)
+![Detail Inside](TerraStay_SS/img4.jpg)
 
 ### 🖼️ Multi Image Previews  
-![Images Grid](/TerraStay_SS/img5.jpg)
+![Images Grid](TerraStay_SS/img5.jpg)
 
 ### 🛠️ Create Listing  
-![Create Listing](/TerraStay_SS/img6.jpg)
+![Create Listing](TerraStay_SS/img6.jpg)
 
 ### ✏️ Edit Listing  
-![Edit Listing](/TerraStay_SS/img7.jpg)
+![Edit Listing](TerraStay_SS/img7.jpg)
 
 ### 🧭 Map Integration (if enabled)  
-![Map](/TerraStay_SS/img8.jpg)
+![Map](TerraStay_SS/img8.jpg)
 
 ### 📱 Mobile Responsive View  
-![Mobile View](/TerraStay_SS/img9.jpg)
+![Mobile View](TerraStay_SS/img9.jpg)
 
 ---
 
 ### 🗂️ Architecture Diagram
-![Project Architecture](/TerraStay_SS/project_structure.jpg)
+![Project Architecture](TerraStay_SS/project_structure.jpg)
 
 </details>
 
@@ -142,7 +142,8 @@ App runs at: http://localhost:3000
 
 ```
 
-## 📦 Project Structure
 
 
-## 📬 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817) <p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
+
+## 📬 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansimore0817)
+<p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
