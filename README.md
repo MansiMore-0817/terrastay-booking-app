@@ -59,11 +59,11 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 <table>
 <tr>
 <td align="center">
-<img src="Terrastay_SS/home.jpg" width="400px" />
+<img src="/Terrastay_SS/home.jpg" width="400px" />
 <br/><b>Homepage (View 1)</b>
 </td>
 <td align="center">
-<img src="Terrastay_SS/home2.jpg" width="400px" />
+<img src="/Terrastay_SS/home2.jpg" width="400px" />
 <br/><b>Homepage (View 2)</b>
 </td>
 </tr>
@@ -127,17 +127,23 @@ It is built following MVC architecture using **Node.js, Express, MongoDB, EJS, a
 <br/><b>Update Tax / Price</b>
 </td>
 <td align="center">
-<img src="/Terrastay_SS/project_structure.jpg" width="400px" />
-<br/><b>Project Structure Diagram</b>
+<img src="/Terrastay_SS/signup.jpg" width="400px" />
+<br/><b>SignUp Page</b>
 </td>
 </tr>
+
 </table>
+
+---
 
 </details>
 
 
 ### 🗂️ Architecture Diagram
-![Project Architecture](TerraStay_SS/project_structure.jpg)
+<td align="center">
+<img src="/Terrastay_SS/project_structure.jpg" width="400px" />
+
+</td>
 
 </details>
 
